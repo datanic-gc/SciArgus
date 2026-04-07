@@ -22,5 +22,5 @@ Papers discussing the concept of ecological condition and its quantification. Th
 #Global Biodiversity Data
 Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Seagrass Carbon
+Papers contributing significant information to our fundamental understanding of seagrass mapping or carbon stocks, including their contribution to carbon stock inventories. Do not include general seagrass ecology, genetics or biology. Submissions should relate to the advancement of science to support carbon and nature financing of seagrass restoration or mapping of seagrass using novel technologies.
