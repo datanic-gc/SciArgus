@@ -40,3 +40,5 @@ Katherine Hayhoe
 Nichole Barger
 John Poulsen
 Geethen Singh
+Nicola Ranger
+Tim Lenton
